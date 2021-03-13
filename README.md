@@ -2,4 +2,4 @@
 
 Description goes here
 
-## Githu IO hosting
+## Github IO hosting
